@@ -29,11 +29,5 @@ Este programa calcula o percentual de faturamento de cada estado em relação ao
 Este programa inverte os caracteres de uma string informada pelo usuário.  
 **Arquivo:** `inverterString.js`
 
-## Como Executar
 
-Para executar os programas, siga estas instruções:
 
-1. **Clone este repositório:**
-
-   ```bash
-   git clone https://github.com/seu_usuario/nome_do_repositorio.git
